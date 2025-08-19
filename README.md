@@ -1,5 +1,5 @@
-#This is an Arduino project I coded when I was in my 2nd-year days in college. 
-##It was when we have this IT10/L subject named IT Elective 3 but I call it "Robotics" because the subject is about robots, IoT, and yes the Arduino. 
+This is an Arduino project I coded when I was in my 2nd-year days in college. 
+It was when we have this IT10/L subject named IT Elective 3 but I call it "Robotics" because the subject is about robots, IoT, and yes the Arduino. 
 
 This Arduino file is the program of the device I also made myself. It is like a thing that is put in top of things anyone should not touch. 
 Therefore, I named it "TouchMeNot" because this device will trigger an alarming sound if it is lift, tilt, etc., 
@@ -10,4 +10,4 @@ If someone touches the thing, let's say the notebook, the device will trigger th
 Others cannot say an excuse like they did not mean to touch the thing because the device has "DO NOT TOUCH" word on top of it to ensure visibility, 
 just do not put it in a way or areas that is supposed to be open space.
 
-###If you would like to see the device, just let me know..
+If you would like to see the device, just let me know..
